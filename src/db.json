@@ -21,14 +21,14 @@
       "score": 4792
     },
     {
-      "id": "3",
       "name": "Oliver Miller",
-      "age": 38,
       "email": "oliver.miller3@example.com",
+      "age": 382,
       "city": "Oslo",
       "role": "Moderator",
       "isActive": true,
-      "score": 587
+      "score": 587,
+      "id": "3"
     },
     {
       "id": "4",
@@ -289,16 +289,6 @@
       "isActive": true,
       "score": 0,
       "id": "db88c961-ffae-4fbb-849c-dc4f3f1877f8"
-    },
-    {
-      "name": "333",
-      "email": "w@w",
-      "age": 333,
-      "city": "w32e3",
-      "role": "Moderator",
-      "isActive": false,
-      "score": 3,
-      "id": "85adc1a5-73d0-4805-8b0a-e3a579ab598d"
     }
   ]
 }
